@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ccbf20906bf9be479fa805d261bf492, type: 3}
+  m_Name: Miles
+  m_EditorClassIdentifier: 
+  Artist: 'Artist : Miles Davis'
+  Record: Record :Kind of Blue
+  MusicGenre: 'Music Genre: Jazz'
+  Company: 'Company: Columbia Records'
+  Year: 'Release Year: 1959'
+  TrackList: '
+
+    Track List
+
+
+    A.1. So What
+
+    A.2. Freddie Freeloader
+
+    A.3.
+    Blue in Green
+
+    B.1. All Blue
+
+    B.2. Flamenco Sketches'
+  BandMembers: '
+
+    Band Memebers
+
+
+    MIles Davis - Trumpet
+
+    Julian Adderley
+    - alto Sax
+
+    John Coltrane - tenor Sax
+
+    Bill Evans - Piano
+
+    Paul Chambers
+    - Bass
+
+    James Cobb - Drums'
+  song:
+  - {fileID: 8300000, guid: 027c3ab1178783342b7190315568c149, type: 3}
+  - {fileID: 8300000, guid: 1a9547f609b91d24da24b2c105e4d650, type: 3}
+  - {fileID: 8300000, guid: 58a0f24273fca5046b59b88d8cb91f28, type: 3}
+  - {fileID: 8300000, guid: 1f77de083350a6f489635ac227d62b83, type: 3}
+  - {fileID: 8300000, guid: c0129495491369c4a86b3e262dc05fd7, type: 3}

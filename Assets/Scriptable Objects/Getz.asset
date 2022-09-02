@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ccbf20906bf9be479fa805d261bf492, type: 3}
+  m_Name: Getz
+  m_EditorClassIdentifier: 
+  Artist: 'Artist: Stan Getz & Bill Evans'
+  Record: 'Record: Previously Unreleased Recordings'
+  MusicGenre: 'Music Genre: Jazz'
+  Company: 'Company: Verve Label'
+  Year: 'Release Year: 1973'
+  TrackList: "\nTracklist\n\nA.1. Night and Day\nA.2. But Beautiful\nA.3. Funkallero\nB.1.
+    My Heart Stood Still\nB.2. Melinda\nB.3. Grandfather's Waltz\t\n"
+  BandMembers: '
+
+    Band Members
+
+
+    Stan Getz - Tenor Saxophone
+
+    Bill Evans
+    - Piano
+
+    Ron Carter - Bass (Side One)
+
+    Richard Davis - Bass (Side Two)
+
+    Elvin
+    Jones - Drums
+
+'
+  song:
+  - {fileID: 8300000, guid: fdbec7d12db03bc498b1fbfb5e2504cc, type: 3}
+  - {fileID: 8300000, guid: 6524636a2f2f6034a907f6af75d2a73d, type: 3}
+  - {fileID: 8300000, guid: af954c3594ce8234ba0c0689fd72196c, type: 3}
+  - {fileID: 8300000, guid: eee712da494f47c47bef17445155a7f6, type: 3}
+  - {fileID: 8300000, guid: 0ff12867eff5fc44f9b8721d0c18e224, type: 3}
+  - {fileID: 8300000, guid: e8929b1963ebb0a4ea24fcb1493a4d8f, type: 3}
