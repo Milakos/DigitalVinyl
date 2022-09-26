@@ -29,3 +29,8 @@ shows in the UI Screen. The user can listen samples of each song in the record. 
 ### Demosntration Video
 
 [Video](https://vimeo.com/753901120.)
+
+
+##Files: Images
+
+![Vinyl One](/path/to/image.png "Text to show on mouseover").
