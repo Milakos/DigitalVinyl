@@ -43,6 +43,14 @@ public class Record : MonoBehaviour
         currentSong = 0;
         nextSong = 1;
     }
+    // private void OnEnable() 
+    // {
+    //     source.Play();    
+    // }
+    // private void OnDisable() 
+    // {
+    //     source.Stop();
+    // }
 
     // Update is called once per frame
     void Update()

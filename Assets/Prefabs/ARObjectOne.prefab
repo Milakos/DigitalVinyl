@@ -1951,9 +1951,12 @@ MonoBehaviour:
   year: 
   trackList: 
   bandMembers: 
+  PreviousSong: -1
   nextSong: 0
+  currentSong: 0
   aclip: {fileID: 0}
   source: {fileID: 0}
+  nameofSong: 
 --- !u!1 &7762964997529235617
 GameObject:
   m_ObjectHideFlags: 0
@@ -2506,8 +2509,8 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3335319575220765675, guid: f7cc489302b8fc04ca33f9c31f6e7731, type: 3}
-      propertyPath: m_Constraints
-      value: 62
+      propertyPath: m_AngularDrag
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 3970179184700550274, guid: f7cc489302b8fc04ca33f9c31f6e7731, type: 3}
       propertyPath: m_Enabled

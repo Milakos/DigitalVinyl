@@ -24,11 +24,7 @@ public class LoadScene : MonoBehaviour
     public void OnApplicationQuit() 
     {
         Application.Quit();    
-    }
-
-    
-
- 
+    } 
         public IEnumerator FadeOut(float time)
         {
             while (canvasGroup.alpha < 1)

@@ -45,7 +45,7 @@ public class ImageTracker : MonoBehaviour
         foreach (ARTrackedImage trackedImage in eventArgs.added)
         {
 
-            text.text = "Added";
+            // text.text = "Added";
             ChangeLocation(trackedImage.referenceImage.name, trackedImage.transform.position, trackedImage.transform.rotation, true);
         }
         
@@ -53,7 +53,7 @@ public class ImageTracker : MonoBehaviour
         {
             
             ChangeLocation(trackedImage.referenceImage.name, trackedImage.transform.position, trackedImage.transform.rotation, true);
-            text.text = "Update";
+            // text.text = "Update";
 
             if(trackedImage.trackingState == TrackingState.Limited || trackedImage.trackingState == TrackingState.None)
             {
