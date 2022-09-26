@@ -33,4 +33,4 @@ shows in the UI Screen. The user can listen samples of each song in the record. 
 
 ##Files: Images
 
-![Vinyl One](/path/to/image.png "Text to show on mouseover").
+![Vinyl One](\Assets\Images\ARObjectOne.jpg "Text to show on mouseover").
