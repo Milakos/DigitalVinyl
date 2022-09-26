@@ -15,3 +15,15 @@ turns the wheel to display the second image.
 
 ### Demonstartion Video
 [Video](.)
+
+
+## AR Digital Vinyl
+
+The second Projcet is in the Komianos Scene in Unity Project file. This Prortotype Developed for academic purpsoses, 
+in another MSc Degree course Developement of Mixed Reality.
+
+It's an AR prototype Application for diggin vinyls at record stores. The user is called to search for records and scan thorugh
+its personal phone camera the record. When the app tracks the image of the record, it displays a turntable object and a music player Display 
+shows in the UI Screen. The user can listen samples of each song in the record. Also it can be find some basic info about the Record and the artist.
+
+[Video](.)
