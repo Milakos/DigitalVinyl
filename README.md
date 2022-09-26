@@ -14,7 +14,7 @@ The vase contains an UltraSonic sensor that detects the movement is thw user com
 turns the wheel to display the second image.
 
 ### Demonstartion Video
-[Video](.)
+[Video](https://youtu.be/U90HNSNX8O4.)
 
 
 ## AR Digital Vinyl
