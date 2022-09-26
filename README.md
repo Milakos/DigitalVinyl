@@ -26,4 +26,6 @@ It's an AR prototype Application for diggin vinyls at record stores. The user is
 its personal phone camera the record. When the app tracks the image of the record, it displays a turntable object and a music player Display 
 shows in the UI Screen. The user can listen samples of each song in the record. Also it can be find some basic info about the Record and the artist.
 
+### Demosntration Video
+
 [Video](.)
